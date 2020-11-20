@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap');
 body{
-  background: #af0ff0;
+  background: #ffe;
+  color: #00f;
+  margin: 0px;
+}
+
+body h1 {
+  background: #eee;  	
+  margin: 20px  100px;
+}
+
+#main-header{	
+  border-bottom: 1px solid #f00;
+  border-bottom-width: 5px;
 }
